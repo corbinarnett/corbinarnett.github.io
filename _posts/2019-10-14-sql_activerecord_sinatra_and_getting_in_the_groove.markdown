@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "SQL, ActiveRecord, Sinatra, and getting in the groove."
-date:       2019-10-14 20:49:27 +0000
+date:       2019-10-14 16:49:28 -0400
 permalink:  sql_activerecord_sinatra_and_getting_in_the_groove
 ---
 
