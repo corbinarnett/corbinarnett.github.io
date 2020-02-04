@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What is Hoisting?"
-date:       2020-02-04 21:31:37 +0000
+date:       2020-02-04 16:31:38 -0500
 permalink:  what_is_hoisting
 ---
 
